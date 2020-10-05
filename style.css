@@ -1,0 +1,45 @@
+div{ 
+    box-sizing:border-box; 
+  } 
+
+#information{
+    margin: auto;
+    background-color: yellowgreen ;
+    align-content: center;
+    text-align: center;
+    width: 80vw;
+    border: 3px solid green ;
+    padding: 10px;
+}
+
+#header{
+font-weight: bolder;
+
+}
+
+body{
+    background-color: burlywood;
+    align-content: center;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+}
+#quiz{
+    align-content: center;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.form-control{
+    width: auto;
+    height: auto;
+    display: inline-block;
+}
+
+#resultWin{
+    display: none;
+}
+
+#resultLose{
+    display: none;
+}
